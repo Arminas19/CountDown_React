@@ -13,5 +13,13 @@
     margin: 10px;
 }
 
+.Test {
+    display: inline;
+}
+
+.Deadline-input {
+    font-size: 25px;  
+    margin: 5px
+};
 
 
