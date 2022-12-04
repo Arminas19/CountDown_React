@@ -4,6 +4,7 @@ Learing React and Redux
 To Start Application Follow they's steps below:
 1. write this in the terminal first: cd my-app
 2. than write this: npm start
+3. if that dosen't work try npm install and repeat the steps above. (Sometimes npm dosnt get installed from requirements.txt file).
 
 Set-Up installastions:
 1. install npm by using pip3 install npm   / check if installed nmp -v
